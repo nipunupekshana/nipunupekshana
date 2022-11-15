@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Upekshana</h1>
-<h3 align="center">A passionate Full-stack developer Sri lanka 🇱🇰</h3>
+<h3 align="center">A passionate Full-stack developer from Sri lanka 🇱🇰</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
